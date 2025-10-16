@@ -3,7 +3,7 @@ A curated collection of beginner-friendly ESP32 projects covering sensors, Wi-Fi
 
 ### 📁 Projects Overview
 
-- **wifi_reconnect.ino**: Auto-reconnect ESP32 to Wi-Fi if disconnected
+- **wifi_connect.ino**: Auto-reconnect ESP32 to Wi-Fi if disconnected
 - **dht11_wifi.ino**: Read DHT11 temperature & humidity and connect to Wi-Fi
 - **non_blocking_dht11_wifi.ino**: Handle sensor reading and Wi-Fi connection using `millis()` (non-blocking)
 - **gpio_control.ino**: Control LEDs, relays, and buttons

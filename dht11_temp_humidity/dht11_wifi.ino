@@ -74,6 +74,6 @@ void connectToWiFi() {
     Serial.print("IP Address: ");
     Serial.println(WiFi.localIP());
   } else {
-    Serial.println("\n❌ WiFi connection FAILED! Will retry...");
+    Serial.println("\nWiFi connection FAILED! Will retry...");
   }
 }
